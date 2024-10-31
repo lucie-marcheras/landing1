@@ -1,0 +1,14 @@
+.btn {
+	background-color: powderblue;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: black;
+}
+
+
+.btn:hover {
+	background-color: rebeccapurple;
+	color: white;
+}
+
+

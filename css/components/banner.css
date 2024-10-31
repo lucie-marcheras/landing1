@@ -1,0 +1,29 @@
+.banner {
+	background-image: linear-gradient(-225deg, rgba(80, 45, 45, 0.4) 0%, rgba(0, 0, 0, 0.1) 60%), url(../../images/yarn.jpg);
+	color: white;
+	padding: 80px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.banner h1{
+	font-size: 50px;
+	color: white;
+	text-shadow: 3px 3px 5px rgb(230, 155, 170 );
+}
+
+
+.banner h2{
+	font-size: 30px;
+	color: white;
+	font-weight: lighter;
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
